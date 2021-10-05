@@ -1,0 +1,38 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 316: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 320: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 324: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 328: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 332: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 336: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 340: end of line expected.
+    jump noite_0:
+                ^
+
+File "game/script.rpy", line 344: end of line expected.
+    jump noite_0:
+                ^
+
+Ren'Py Version: Ren'Py 7.4.8.1895
+Fri Oct  1 10:32:29 2021
